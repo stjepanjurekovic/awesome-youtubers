@@ -372,6 +372,11 @@ Content about: C#, .NET, Discord \
 Featured playlists: `Discord.NET Bot Development`. \
 <br/>
 
+[**Manning Publications**](https://www.youtube.com/channel/UCDia_lkNYKLJVLRLQl_-pFw) \
+Content about: AI/ML/DL, Data Science, Databases, DevOps, Programming, Python, Robotics, Security, TBD, Testing \
+Featured playlists: `Manning Introduces``Live Coding``Code Calls``Getting Started``live@manning conferences`. \
+<br/>
+
 [🔼 Back to the top](#contents)
 
 ## Web development
